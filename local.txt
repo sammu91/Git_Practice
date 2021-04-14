@@ -1,1 +1,5 @@
+<Updated upstream
 master commit 
+=======
+local commit 1
+>> Stashed changes
